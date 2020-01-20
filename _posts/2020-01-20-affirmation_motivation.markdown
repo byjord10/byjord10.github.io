@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Affirmation == Motivation"
-date:       2020-01-20 23:29:57 +0000
+date:       2020-01-20 18:29:58 -0500
 permalink:  affirmation_motivation
 ---
 
