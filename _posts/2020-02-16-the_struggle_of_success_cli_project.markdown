@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Struggle of success: CLI Project"
-date:       2020-02-17 04:36:27 +0000
+date:       2020-02-16 23:36:28 -0500
 permalink:  the_struggle_of_success_cli_project
 ---
 
